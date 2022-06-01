@@ -1,6 +1,6 @@
 // Primitive Datatype
 
-let cartobj = { value: 5 };
+let cartobj = { value: 10 };
 function updatecart(cart) {
   cart.value++;
 }
